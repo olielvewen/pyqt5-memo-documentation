@@ -15,6 +15,7 @@ Welcome to PyQt5 Memo Documentation's documentation!
    Qt.Core
    Qt.Charts
    Qt.GrraphicsScene
+   Traduction
 
 
 
