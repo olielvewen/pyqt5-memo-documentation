@@ -17,6 +17,8 @@ d'une application.
    :titlesonly:
    
    application
+   mainwindow
+   dialog
    messagebox
    lineedit
    colordialog
