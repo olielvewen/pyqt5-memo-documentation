@@ -6,19 +6,17 @@
 Welcome to PyQt5 Memo Documentation's documentation!
 ====================================================
 
-Contents:
 
 .. toctree::
-   :maxdepth: 3
-   :caption:
-   
-   Contents:
+   :maxdepth: 4
+   :caption: Contenu:
+
    Introduction
-   Qt.Widgets
-   Qt.Gui
-   Qt.Core
-   Qt.Charts
-   Qt.GraphicsScene
+   Widgets
+   Gui
+   Core
+   Charts
+   GraphicsScene
    Traduction
 
 
