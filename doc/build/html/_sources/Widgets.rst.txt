@@ -12,3 +12,11 @@ pour résumer pleins de choses super interressant et obligatoire pour le dévelo
 d'une application.
 
 
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   
+   application
+   messagebox
+   lineedit
+   colordialog
