@@ -27,6 +27,7 @@ d'une application.
    pushbutton
    combobox
    checkbox
+   radiobutton
    colordialog
    progressbar
    progressdialog
