@@ -18,3 +18,4 @@ nous allons voir cii. Blablabla.
    cursor
    keyevent
    icon
+   pixmap

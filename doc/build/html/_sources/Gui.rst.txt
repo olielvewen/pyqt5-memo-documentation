@@ -12,3 +12,10 @@ nous allons voir cii. Blablabla.
    :titlesonly:
    
    brush
+   pen
+   color
+   painter
+   cursor
+   keyevent
+   icon
+   pixmap
