@@ -25,9 +25,12 @@ d'une application.
    label
    lineedit
    pushbutton
+   combobox
    colordialog
    progressbar
    progressdialog
+   splashscreen
+   menu
 
 
 
