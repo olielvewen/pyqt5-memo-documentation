@@ -12,3 +12,4 @@ ce blablabla
    qt
    translator
    locale
+   pyqtslot
