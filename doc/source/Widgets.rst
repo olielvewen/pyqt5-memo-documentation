@@ -27,6 +27,7 @@ d'une application.
    pushbutton
    colordialog
    progressbar
+   progressdialog
 
 
 
