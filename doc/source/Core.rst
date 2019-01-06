@@ -10,3 +10,4 @@ ce blablabla
    :titlesonly:
    
    qt
+   translator
