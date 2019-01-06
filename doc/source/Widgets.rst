@@ -22,6 +22,7 @@ d'une application.
    filedialog
    widget
    messagebox
+   label
    lineedit
    colordialog
 
