@@ -15,3 +15,5 @@ ce blablabla
    pyqtslot
    pyqtsignal
    settings
+   process
+   filesave
