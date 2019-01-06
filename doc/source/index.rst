@@ -14,7 +14,11 @@ ou non, n'est pas la question. Mais créer un projet et le faire évoluer jusqu'
 ce qu'il soit fonctionnel. Cela introduit tout un tas de classes et de méthodes
 que l'on peut réutiliser par après pour un autre projet qui lui sera utilisable
 pour un certain nombre d'utilisateurs.
-Bref, ce que l'on voit dans la vraie vie d'un développeur.
+
+Bref, ce que l'on voit dans la vraie vie d'un développeur de tous les jours.
+
+| Autheur:   Olivier Girard
+| Dernière Mise à Jour:   |today|
 
 .. toctree::
    :maxdepth: 4
