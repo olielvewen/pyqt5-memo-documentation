@@ -11,3 +11,4 @@ ce blablabla
    
    qt
    translator
+   locale
