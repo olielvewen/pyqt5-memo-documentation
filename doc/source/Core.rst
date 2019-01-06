@@ -17,3 +17,5 @@ ce blablabla
    settings
    process
    filesave
+   temporarydir
+   temporaryfile
