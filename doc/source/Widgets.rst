@@ -24,7 +24,9 @@ d'une application.
    messagebox
    label
    lineedit
+   pushbutton
    colordialog
+   progressbar
 
 
 
