@@ -17,9 +17,22 @@ d'une application.
    :titlesonly:
    
    application
+   mainwindow
+   dialog
+   filedialog
+   widget
    messagebox
+   label
    lineedit
+   pushbutton
+   combobox
+   checkbox
+   radiobutton
    colordialog
+   progressbar
+   progressdialog
+   splashscreen
+   menu
 
 
 
