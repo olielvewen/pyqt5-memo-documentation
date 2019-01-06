@@ -17,3 +17,4 @@ nous allons voir cii. Blablabla.
    painter
    cursor
    keyevent
+   icon
