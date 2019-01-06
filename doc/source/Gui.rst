@@ -15,3 +15,4 @@ nous allons voir cii. Blablabla.
    pen
    color
    painter
+   cursor
