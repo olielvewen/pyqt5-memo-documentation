@@ -13,3 +13,5 @@ ce blablabla
    translator
    locale
    pyqtslot
+   pyqtsignal
+   settings
