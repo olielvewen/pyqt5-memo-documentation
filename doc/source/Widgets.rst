@@ -26,6 +26,7 @@ d'une application.
    lineedit
    pushbutton
    combobox
+   checkbox
    colordialog
    progressbar
    progressdialog
