@@ -16,3 +16,4 @@ nous allons voir cii. Blablabla.
    color
    painter
    cursor
+   keyevent
