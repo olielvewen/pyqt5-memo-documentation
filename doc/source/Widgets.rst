@@ -19,6 +19,7 @@ d'une application.
    application
    mainwindow
    dialog
+   filedialog
    messagebox
    lineedit
    colordialog
