@@ -17,7 +17,7 @@ pour un certain nombre d'utilisateurs.
 
 Bref, ce que l'on voit dans la vraie vie d'un développeur de tous les jours.
 
-| Autheur:   Olivier Girard
+| Auteur:   Olivier Girard
 | Dernière Mise à Jour:   |today|
 
 .. toctree::
