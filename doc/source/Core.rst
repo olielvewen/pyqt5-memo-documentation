@@ -24,3 +24,4 @@ ce blablabla
    libraryinfo
    variant
    timer
+   size
