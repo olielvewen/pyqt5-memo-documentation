@@ -23,3 +23,4 @@ ce blablabla
    sysinfo
    libraryinfo
    variant
+   timer
