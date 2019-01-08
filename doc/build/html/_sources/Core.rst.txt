@@ -19,3 +19,10 @@ ce blablabla
    filesave
    temporarydir
    temporaryfile
+   date
+   sysinfo
+   libraryinfo
+   variant
+   timer
+   size
+   dir

@@ -33,6 +33,10 @@ d'une application.
    progressdialog
    splashscreen
    menu
+   menubar
+   systray
+   systrayicon
+   date
 
 
 
