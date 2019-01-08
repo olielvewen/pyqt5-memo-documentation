@@ -14,3 +14,4 @@ Il se compose de trois élements:
    :titlesonly:
    
    graphicsscene
+   graphicsitem
