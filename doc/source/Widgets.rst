@@ -37,6 +37,7 @@ d'une application.
    systray
    systrayicon
    date
+   wizard
 
 
 
