@@ -21,3 +21,5 @@ ce blablabla
    temporaryfile
    date
    sysinfo
+   libraryinfo
+   variant
