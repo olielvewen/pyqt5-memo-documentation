@@ -20,3 +20,4 @@ ce blablabla
    temporarydir
    temporaryfile
    date
+   sysinfo
