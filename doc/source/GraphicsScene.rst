@@ -15,3 +15,4 @@ Il se compose de trois élements:
    
    graphicsscene
    graphicsitem
+   graphicsview
