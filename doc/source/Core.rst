@@ -25,3 +25,4 @@ ce blablabla
    variant
    timer
    size
+   dir
